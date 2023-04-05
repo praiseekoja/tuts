@@ -1,0 +1,12 @@
+body{
+background-color:rgba(151, 79, 79, 0.17) ;
+}
+nav{
+   background-color: white;
+   color: blue; 
+   height: 5em;
+   /* display: flex; */
+}
+span{
+    width: 33.2vw;
+}
